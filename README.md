@@ -14,7 +14,7 @@ most devices, have an energy consumption policy put in place that helps by switc
 an ideal energy-saving state when not in use. However, most polices are programmed for static use
 and don’t account for device high and low usage peaks meaning they will be un-optimal at certain
 times. Printers are an example of one these devices and when printing is 10-16% of ICT related
-energy consumption in higher education [9], the small amount of wasted per device starts to add up
+energy consumption in higher education, the small amount of wasted per device starts to add up
 
 Note:
 For reasons I am unable to link the code that i used as it is private data that I have been given for this task.
